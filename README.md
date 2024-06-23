@@ -1,5 +1,7 @@
 # Singapore Resale Flat Prices Predicting
 
+![Housing_and_Development_Board_flats_in_Bukit_Panjang,_Singapore_-_20130131_(single-row_panorama)](https://github.com/TamizHari/Singapore_flat_resale_pricepridiction/assets/164135407/407bc883-e086-49c2-bd6c-4c7040abf183)
+
 ### **DOMAIN**: Real Estate
 
 ## **Problem Statement:**
